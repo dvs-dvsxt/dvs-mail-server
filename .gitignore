@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Mail data
+mail_config.json
+email_data.json
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
